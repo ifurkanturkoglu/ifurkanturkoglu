@@ -10,8 +10,6 @@ On the frontend side, I worked with **Angular** to create dynamic and responsive
 
 I am always eager to learn and grow in my field and believe that technology can make a positive impact on our lives. Feel free to explore my repos and if you have any questions or collaboration ideas, please feel free to reach out!
 
-
-Translated with DeepL.com (free version)
 ###
 
 <div align="center">
