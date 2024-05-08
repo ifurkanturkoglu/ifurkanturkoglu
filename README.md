@@ -1,5 +1,17 @@
 <h2 align="left">Hi 👋! My name is İsmail Furkan TÜRKOĞLU.</h2>
 
+Hello! 👋 I'm a self-developer in the field of computer engineering.
+
+In terms of backend development, I have developed various applications with **ASP.NET Core**. These experiences have helped me gain a deep understanding of backend structures and principles. I am currently developing myself in the backend area.
+
+I also stepped into the world of game development using **Unity**. This experience not only improved my problem solving skills but also increased my creativity in designing user experiences.
+
+On the frontend side, I worked with **Angular** to create dynamic and responsive user interfaces, which gave me a solid foundation in modern frontend technologies and best practices.
+
+I am always eager to learn and grow in my field and believe that technology can make a positive impact on our lives. Feel free to explore my repos and if you have any questions or collaboration ideas, please feel free to reach out!
+
+
+Translated with DeepL.com (free version)
 ###
 
 <div align="center">
