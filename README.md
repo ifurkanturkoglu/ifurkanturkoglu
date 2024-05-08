@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is İsmail Furkan TÜRKOĞLU.</h2>
 
-Hello! 👋 I'm a self-developer in the field of computer engineering.
+I'm a self-developer in the field of computer engineering.
 
 In terms of backend development, I have developed various applications with **ASP.NET Core**. These experiences have helped me gain a deep understanding of backend structures and principles. I am currently developing myself in the backend area.
 
