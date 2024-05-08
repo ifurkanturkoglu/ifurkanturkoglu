@@ -9,7 +9,7 @@
 
 ###
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -50,6 +50,13 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ifurkanturkoglu/ifurkanturkoglu/output/snake.svg" alt="Snake animation" />
+
+###
 ###
 
 <br clear="both">
