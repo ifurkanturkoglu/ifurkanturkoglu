@@ -21,7 +21,6 @@ I am always eager to learn and grow in my field and believe that technology can 
 
 
 
-<br>  
 <br> 
 
 
