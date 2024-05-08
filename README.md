@@ -10,6 +10,8 @@ On the frontend side, I worked with **Angular** to create dynamic and responsive
 
 I am always eager to learn and grow in my field and believe that technology can make a positive impact on our lives. Feel free to explore my repos and if you have any questions or collaboration ideas, please feel free to reach out!
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ifurkanturkoglu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifurkanturkoglu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -17,7 +19,7 @@ I am always eager to learn and grow in my field and believe that technology can 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifurkanturkoglu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -44,7 +46,7 @@ I am always eager to learn and grow in my field and believe that technology can 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
-
+<br>
 <div align="left">
   <a href="turkoglu.ifurkan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -53,3 +55,4 @@ I am always eager to learn and grow in my field and believe that technology can 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<br>
